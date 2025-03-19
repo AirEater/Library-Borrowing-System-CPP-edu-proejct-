@@ -7,7 +7,7 @@ The system uses **dynamic memory management** with a **singly linked list** to s
 
 ---
 
-## ** Key Features**
+## Key Features
 ✔ **Student Record Management**: Add new student records, search for students by name or ID, and remove student entries from the system.  
 ✔ **Book Borrowing & Returns**: Assign books to students when borrowed and update the record when books are returned. Each student record can track multiple borrowed books along with their due dates.  
 ✔ **Fine Calculation**: Automatically calculates **fines for overdue books** and maintains a running total of each student's outstanding fines.  
@@ -16,7 +16,7 @@ The system uses **dynamic memory management** with a **singly linked list** to s
 
 ---
 
-## ** Technologies Used**
+## Technologies Used
 - **C++**: Core programming language used to build the application.  
 - **Linked Lists**: Custom **singly linked list** data structure for managing student records dynamically in memory.  
 - **File Handling**: Uses C++ file streams (`ifstream`/`ofstream`) to read and write data to files for **persistent storage** of records.  
