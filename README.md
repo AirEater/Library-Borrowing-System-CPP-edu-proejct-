@@ -16,7 +16,7 @@ The system uses **dynamic memory management** with a **singly linked list** to s
 
 ---
 
-## **🛠 Technologies Used**
+## ** Technologies Used**
 - **C++**: Core programming language used to build the application.  
 - **Linked Lists**: Custom **singly linked list** data structure for managing student records dynamically in memory.  
 - **File Handling**: Uses C++ file streams (`ifstream`/`ofstream`) to read and write data to files for **persistent storage** of records.  
